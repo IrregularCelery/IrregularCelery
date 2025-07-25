@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-> #### I'm `Mohsen` <sub><sup>AKA</sup></sub> `Irregular Celery` <sub><sup>AKA</sup></sub> `ME`!
+> #### I'm `Mohsen` <sub><sup>AKA</sup></sub> `Irregular Celery` <sub><sup>AKA</sup></sub> `ME`! <br> <small><small>**_"I'm driven by the sheer joy of the cognitive process itself."_**</small></small>
 
 ![Phoebe Buffay Shouting Regular Celery](static/images/phoebe.gif)
 
